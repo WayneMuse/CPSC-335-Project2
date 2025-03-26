@@ -1,0 +1,6 @@
+["sanoaklandrialtofullertonmarcolongbreacoronamodestoclovissimithousand"]
+['brea', 'modesto', 'clovis', 'corona']
+["marcopolmonafremontrialtofullertonmarcolongfresnochinoclovissimisalinas"]
+['fullerton', 'chino', 'fremont', 'fresno']
+["torranceoaklandrialtomarcooxnardchinofresnoirvineclovissimiorange"]
+['oxnard', 'irvine', 'orange', 'marco']
